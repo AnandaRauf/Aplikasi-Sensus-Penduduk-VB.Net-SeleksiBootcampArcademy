@@ -8,6 +8,8 @@ Soal Bootcamp Arkademy Batch 9 Kloter 1
 
 Saya membuat program ini menggunakan Visual Studio 2015, dengan bahasa pemrogaman Visual Basic (VB.Net)
 
+Program tersebut untuk menjalankan pencet F5 dan untuk memberhentikan run Pencet Shift+F5 dan jika ingin build ke .exe pencet build menu.
+
 Saya menggunakan database server : Microsoft Sql Server 2014 
 
 Program ini berbentuk windows form / aplikasi dekstop.
